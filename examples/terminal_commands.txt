@@ -1,0 +1,7 @@
+cd ~/home
+git config user.email "e-mail"
+git config user.name "name"
+git clone https://github.com/SuperPranx/udemy-docker.git
+cd udemy-docker
+
+docker run -p 3000:3000 32659cfed9bf &
