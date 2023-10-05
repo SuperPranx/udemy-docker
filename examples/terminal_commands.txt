@@ -1,4 +1,4 @@
-cd ~/home
+cd /home
 git config user.email "e-mail"
 git config user.name "name"
 git clone https://github.com/SuperPranx/udemy-docker.git
